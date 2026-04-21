@@ -77,3 +77,20 @@ package what4
 
 -- See https://github.com/diagrams/dual-tree/issues/17
 constraints: dual-tree < 0.2.3.2
+
+source-repository-package
+   type: git
+   location: https://github.com/jevinskie/boring
+   subdir: boring
+   tag: djs/main
+
+source-repository-package
+   type: git
+   location: https://github.com/jevinskie/boring
+   subdir: boring-instances
+   tag: djs/main
+
+source-repository-package
+   type: git
+   location: https://github.com/jevinskie/ring-buffer
+   tag: djs/main

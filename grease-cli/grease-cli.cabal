@@ -21,7 +21,7 @@ source-repository head
 
 common shared
   default-language: GHC2021
-  build-depends: base >= 4.17 && < 4.21
+  build-depends: base >= 4.17 && < 4.23
 
   -- See doc/style.md
   --
