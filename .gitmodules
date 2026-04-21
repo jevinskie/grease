@@ -13,6 +13,7 @@
 [submodule "deps/crucible"]
 	path = deps/crucible
 	url = https://github.com/GaloisInc/crucible
+	branch = djs/grease
 [submodule "deps/dismantle"]
 	path = deps/dismantle
 	url = https://github.com/travitch/dismantle

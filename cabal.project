@@ -94,3 +94,8 @@ source-repository-package
    type: git
    location: https://github.com/jevinskie/ring-buffer
    tag: djs/main
+
+source-repository-package
+   type: git
+   location: https://github.com/jevinskie/boomerang
+   tag: djs/main
